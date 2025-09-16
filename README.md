@@ -3,7 +3,8 @@ This is the official implementation of the paper "A Lightweight 3D Anomaly Detec
 
 ![Pipeline](docs/pipeline.png)
 
-You can visit paper at [link](https://github.com/hzzzzzhappy/RIF/blob/main/docs/paper.pdf).
+The original paper will be released after the DOI number is generated. Preprint can be found at [link]()
+
 ## Datasets and Pretrain
 We use [Real3d-ad](https://github.com/m-3lab/real3d-ad) and [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) for evluation.
 
