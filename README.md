@@ -1,6 +1,9 @@
 # RIF
 This is the official implementation of the paper "A Lightweight 3D Anomaly Detection Method with Rotationally Invariant". And ⚠️ This repository is not actively maintained. You can reproduce the results by following the implementation ideas outlined below.
 
+![Pipeline](docs/pipeline.png)
+
+You can visit paper at [link](1)
 ## Datasets and Pretrain
 We use [Real3d-ad](https://github.com/m-3lab/real3d-ad) and [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) for evluation.
 
