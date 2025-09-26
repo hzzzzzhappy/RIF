@@ -1,5 +1,5 @@
 # RIF
-This is the official implementation of the paper "A Lightweight 3D Anomaly Detection Method with Rotationally Invariant". This work has been submitted for review to IEEE. 
+This is the official implementation of the paper "A Lightweight 3D Anomaly Detection Method with Rotationally Invariant". This work has been submitted for review to Elsevier. 
 
 ![Pipeline](docs/pipeline.png)
 
